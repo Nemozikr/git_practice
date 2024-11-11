@@ -1,7 +1,7 @@
 # Git Practice
 ## __Description__
 
-This is a practice project where I am going to utilise the knowledge I get from [Codecademy]<a href="https://codecademy.com/" target="_blank">
+This is a practice project where I am going to utilise the knowledge I get from <a href="https://codecademy.com/" target="_blank">Codecademy</a>
 
 ## __Features__
 
